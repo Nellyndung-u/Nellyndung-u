@@ -10,5 +10,4 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on IoT and Web Development.
 - 💬 Ask me about IoT
 - 📫 How to reach me: nellywambui060@gmail.com
-- ⚡ Fun fact: I'm a Nyctophile
 
